@@ -7,7 +7,6 @@ export default function Layout({ children }: PropsWithChildren<{}>) {
       <main className='mb-auto pt-24'>
         {children}
       </main>
-      <Footer />
     </div>
   )
 }

@@ -33,7 +33,7 @@ export default function NumberInput({ name, formRef }: Props) {
 
   return (
     <div
-      className="w-36 border-2 border-gray-200 rounded-md flex flex-row items-center"
+      className="w-36 border-2 border-[#202021] rounded-md flex flex-row items-center"
     >
       <button
         type="button"
